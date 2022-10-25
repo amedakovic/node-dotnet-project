@@ -1,0 +1,12 @@
+E:\demos\node dotnet project\Reactivities\Domain\bin\Debug\net6.0\Domain.deps.json
+E:\demos\node dotnet project\Reactivities\Domain\bin\Debug\net6.0\Domain.dll
+E:\demos\node dotnet project\Reactivities\Domain\bin\Debug\net6.0\Domain.pdb
+E:\demos\node dotnet project\Reactivities\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+E:\demos\node dotnet project\Reactivities\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\demos\node dotnet project\Reactivities\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+E:\demos\node dotnet project\Reactivities\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+E:\demos\node dotnet project\Reactivities\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+E:\demos\node dotnet project\Reactivities\Domain\obj\Debug\net6.0\Domain.dll
+E:\demos\node dotnet project\Reactivities\Domain\obj\Debug\net6.0\refint\Domain.dll
+E:\demos\node dotnet project\Reactivities\Domain\obj\Debug\net6.0\Domain.pdb
+E:\demos\node dotnet project\Reactivities\Domain\obj\Debug\net6.0\ref\Domain.dll

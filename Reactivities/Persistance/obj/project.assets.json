@@ -1097,11 +1097,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "e:\\demos\\node dotnet project\\Reactivities\\Persistance\\Persistance.csproj",
+      "projectUniqueName": "E:\\demos\\node dotnet project\\Reactivities\\Persistance\\Persistance.csproj",
       "projectName": "Persistance",
-      "projectPath": "e:\\demos\\node dotnet project\\Reactivities\\Persistance\\Persistance.csproj",
+      "projectPath": "E:\\demos\\node dotnet project\\Reactivities\\Persistance\\Persistance.csproj",
       "packagesPath": "C:\\Users\\aname\\.nuget\\packages\\",
-      "outputPath": "e:\\demos\\node dotnet project\\Reactivities\\Persistance\\obj\\",
+      "outputPath": "E:\\demos\\node dotnet project\\Reactivities\\Persistance\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\aname\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1111,6 +1111,7 @@
         "net6.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

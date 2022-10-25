@@ -1,0 +1,15 @@
+E:\demos\node dotnet project\Reactivities\Persistance\bin\Debug\net6.0\Persistance.deps.json
+E:\demos\node dotnet project\Reactivities\Persistance\bin\Debug\net6.0\Persistance.dll
+E:\demos\node dotnet project\Reactivities\Persistance\bin\Debug\net6.0\Persistance.pdb
+E:\demos\node dotnet project\Reactivities\Persistance\bin\Debug\net6.0\Domain.dll
+E:\demos\node dotnet project\Reactivities\Persistance\bin\Debug\net6.0\Domain.pdb
+E:\demos\node dotnet project\Reactivities\Persistance\obj\Debug\net6.0\Persistance.csproj.AssemblyReference.cache
+E:\demos\node dotnet project\Reactivities\Persistance\obj\Debug\net6.0\Persistance.GeneratedMSBuildEditorConfig.editorconfig
+E:\demos\node dotnet project\Reactivities\Persistance\obj\Debug\net6.0\Persistance.AssemblyInfoInputs.cache
+E:\demos\node dotnet project\Reactivities\Persistance\obj\Debug\net6.0\Persistance.AssemblyInfo.cs
+E:\demos\node dotnet project\Reactivities\Persistance\obj\Debug\net6.0\Persistance.csproj.CoreCompileInputs.cache
+E:\demos\node dotnet project\Reactivities\Persistance\obj\Debug\net6.0\Persistance.csproj.CopyComplete
+E:\demos\node dotnet project\Reactivities\Persistance\obj\Debug\net6.0\Persistance.dll
+E:\demos\node dotnet project\Reactivities\Persistance\obj\Debug\net6.0\refint\Persistance.dll
+E:\demos\node dotnet project\Reactivities\Persistance\obj\Debug\net6.0\Persistance.pdb
+E:\demos\node dotnet project\Reactivities\Persistance\obj\Debug\net6.0\ref\Persistance.dll
