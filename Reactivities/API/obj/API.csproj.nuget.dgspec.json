@@ -105,8 +105,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "e:\\demos\\node dotnet project\\Reactivities\\Domain\\Domain.csproj": {
-                "projectPath": "e:\\demos\\node dotnet project\\Reactivities\\Domain\\Domain.csproj"
+              "E:\\demos\\node dotnet project\\Reactivities\\Domain\\Domain.csproj": {
+                "projectPath": "E:\\demos\\node dotnet project\\Reactivities\\Domain\\Domain.csproj"
               },
               "E:\\demos\\node dotnet project\\Reactivities\\Persistance\\Persistance.csproj": {
                 "projectPath": "E:\\demos\\node dotnet project\\Reactivities\\Persistance\\Persistance.csproj"
@@ -142,14 +142,14 @@
         }
       }
     },
-    "e:\\demos\\node dotnet project\\Reactivities\\Domain\\Domain.csproj": {
+    "E:\\demos\\node dotnet project\\Reactivities\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "e:\\demos\\node dotnet project\\Reactivities\\Domain\\Domain.csproj",
+        "projectUniqueName": "E:\\demos\\node dotnet project\\Reactivities\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "e:\\demos\\node dotnet project\\Reactivities\\Domain\\Domain.csproj",
+        "projectPath": "E:\\demos\\node dotnet project\\Reactivities\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\aname\\.nuget\\packages\\",
-        "outputPath": "e:\\demos\\node dotnet project\\Reactivities\\Domain\\obj\\",
+        "outputPath": "E:\\demos\\node dotnet project\\Reactivities\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aname\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -220,8 +220,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "e:\\demos\\node dotnet project\\Reactivities\\Domain\\Domain.csproj": {
-                "projectPath": "e:\\demos\\node dotnet project\\Reactivities\\Domain\\Domain.csproj"
+              "E:\\demos\\node dotnet project\\Reactivities\\Domain\\Domain.csproj": {
+                "projectPath": "E:\\demos\\node dotnet project\\Reactivities\\Domain\\Domain.csproj"
               }
             }
           }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tbf4lIVvdMS0ap6aAeERuW4+nKqdPewvIOe9pSRoJ/bIVT2RF1CHH7vsfbdfEv1geqg1D39JWXv2aMhK1CTCoQ==",
+  "dgSpecHash": "fcqLSUS/TnUV/jY/wR0YDdar+FpcwlJsCl52T5YVauwj9/U7KDWhenL6qtEIlID/d8NipagjKMAwS0wF4bQUtw==",
   "success": true,
-  "projectFilePath": "e:\\demos\\node dotnet project\\Reactivities\\Domain\\Domain.csproj",
+  "projectFilePath": "E:\\demos\\node dotnet project\\Reactivities\\Domain\\Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

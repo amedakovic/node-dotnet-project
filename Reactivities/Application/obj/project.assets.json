@@ -1137,8 +1137,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "e:\\demos\\node dotnet project\\Reactivities\\Domain\\Domain.csproj": {
-              "projectPath": "e:\\demos\\node dotnet project\\Reactivities\\Domain\\Domain.csproj"
+            "E:\\demos\\node dotnet project\\Reactivities\\Domain\\Domain.csproj": {
+              "projectPath": "E:\\demos\\node dotnet project\\Reactivities\\Domain\\Domain.csproj"
             },
             "E:\\demos\\node dotnet project\\Reactivities\\Persistance\\Persistance.csproj": {
               "projectPath": "E:\\demos\\node dotnet project\\Reactivities\\Persistance\\Persistance.csproj"
