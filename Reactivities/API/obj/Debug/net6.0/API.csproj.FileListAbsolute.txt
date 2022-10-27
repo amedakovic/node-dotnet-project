@@ -59,3 +59,8 @@ E:\demos\node dotnet project\Reactivities\API\obj\Debug\net6.0\API.genruntimecon
 E:\demos\node dotnet project\Reactivities\API\obj\Debug\net6.0\ref\API.dll
 E:\demos\node dotnet project\Reactivities\API\bin\Debug\net6.0\Humanizer.dll
 E:\demos\node dotnet project\Reactivities\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\demos\node dotnet project\Reactivities\API\bin\Debug\net6.0\MediatR.dll
+E:\demos\node dotnet project\Reactivities\API\bin\Debug\net6.0\MediatR.Contracts.dll
+E:\demos\node dotnet project\Reactivities\API\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+E:\demos\node dotnet project\Reactivities\API\bin\Debug\net6.0\AutoMapper.dll
+E:\demos\node dotnet project\Reactivities\API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
