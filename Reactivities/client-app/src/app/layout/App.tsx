@@ -1,6 +1,6 @@
 import React, { Fragment, useEffect, useState } from 'react';
 import axios from 'axios';
-import {Container} from 'semantic-ui-react';
+import {Container, StrictInputProps} from 'semantic-ui-react';
 import { Activity } from '../models/activity';
 import NavBar from './NavBar';
 import ActivityDashboard from '../../features/activities/dashboard/ActivityDashboard';
@@ -44,6 +44,10 @@ function App() {
     setSelectedActivity(activity);
   }
 
+  function handleDeleteActivity(id: string){
+    setActivities([...activities.filter(x=> x.id != id)]);
+  }
+
   return (
     <Fragment>
       <NavBar openForm={handleFormOpen} />
@@ -57,6 +61,7 @@ function App() {
         openForm={handleFormOpen}
         closeForm={handleFormClose}
         createOrEdit={handleCreateOrEditActivity}
+        deleteActivity={handleDeleteActivity}
       />
 
       </Container>
