@@ -1,8 +1,8 @@
 export interface Activity{
     id: string;
     title: string;
-    data: string;
-    desciption: string;
+    date: string;
+    description: string;
     category: string;
     city: string;
     venue: string;
